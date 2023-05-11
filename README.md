@@ -22,6 +22,6 @@ This will start the website on your local machine, and you can access it by goin
 <img width="1216" alt="Screenshot 2023-05-11 at 18 27 47" src="https://github.com/omerkaaratas/Blog-Website/assets/118741717/3c88b51b-be79-46d9-a72d-cd91f1532cb6">
 # Contributing
 If you'd like to contribute to this project, please feel free to submit a pull request or open an issue.
-<img width="1257" alt="Screenshot 2023-05-11 at 18 27 58" src="https://github.com/omerkaaratas/Blog-Website/assets/118741717/0e6028d8-b0ae-4d4e-a9c8-8616ef9da3dc">
+
 # License
 This project is licensed under the MIT license.
