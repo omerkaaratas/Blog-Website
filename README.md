@@ -4,10 +4,10 @@ This is a blog website built using JavaScript, Node.js and Express, with the hel
 
 # Installation
 To install the dependencies required for this project, you can run the following command in your terminal:
--npm install
+- npm install
 # Usage
 To run the website, you can use the following command in your terminal:
--npm start
+- npm start
 This will start the website on your local machine, and you can access it by going to http://localhost:3000 in your web browser.
 
 # Dependencies
